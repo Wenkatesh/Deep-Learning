@@ -145,7 +145,6 @@ GRU generally performs better on sequential text data.
 
 The models were evaluated using:
 - Accuracy
-- Confusion Matrix
 - F1-Score
 
 ---
